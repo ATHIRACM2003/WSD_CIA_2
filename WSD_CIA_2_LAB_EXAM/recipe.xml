@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects xmlns="www.pqr.com/proj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="www.pqr.com/proj recipe.xsd">
+    <project1>
+        <name>Chilly Paneer</name>
+        <description>A famous dish of north India.</description>
+        <year>2020</year>
+        <earnings>2000</earnings>
+    </project1>
+    <project2>
+        <name>Chilly Potato</name>
+        <description>A crispy and spicy dish.</description>
+        <year>2022</year>
+        <earnings>5000</earnings>
+    </project2>
+    <project3>
+        <name>Chilly Chicken</name>
+        <description>A dish that everyone loves in south India.</description>
+        <year>2023</year>
+        <earnings>3000</earnings>
+    </project3>
+    <project4>
+        <name>Biriyani</name>
+        <description>Lovable dish of India.</description>
+        <year>2024</year>
+        <earnings>5000</earnings>
+    </project4>
+</projects>

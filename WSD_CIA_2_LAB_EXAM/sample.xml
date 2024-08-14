@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+  <Project id="1">
+    <name>Chilly Paneer</name>
+    <commitdate>20-10-2024</commitdate>
+  </Project>
+  <Project id="2">
+    <name>Chilly Chicken</name>
+    <commitdate>05-12-2024</commitdate>
+  </Project>
+  <Project id="3">
+    <name>Chilly Potato</name>
+    <commitdate>10-10-2024</commitdate>
+  </Project>
+</projects>

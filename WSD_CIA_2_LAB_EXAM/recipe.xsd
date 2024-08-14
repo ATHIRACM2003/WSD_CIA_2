@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="www.pqr.com/proj" xmlns="www.pqr.com/proj">
+    <xs:element name="projects">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="project1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string"></xs:element>
+                            <xs:element name="description" type="xs:string"></xs:element>
+                            <xs:element name="year" type="xs:integer">
+                            </xs:element>
+                            <xs:element name="earnings" type="xs:integer">
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="project2">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string"></xs:element>
+                            <xs:element name="description" type="xs:string"></xs:element>
+                            <xs:element name="year" type="xs:integer">
+                            </xs:element>
+                            <xs:element name="earnings" type="xs:integer">
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="project3">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string"></xs:element>
+                            <xs:element name="description" type="xs:string"></xs:element>
+                            <xs:element name="year" type="xs:integer">
+                            </xs:element>
+                            <xs:element name="earnings" type="xs:integer">
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="project4">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string"></xs:element>
+                            <xs:element name="description" type="xs:string"></xs:element>
+                            <xs:element name="year" type="xs:integer">
+                            </xs:element>
+                            <xs:element name="earnings" type="xs:integer">
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
